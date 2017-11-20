@@ -4,8 +4,17 @@
     position: relative;
 }
 
-#first {background-color:blue;}
-
+#first {background-color:#03F0FF;
+    height:300px;
+    
+}
+#pic{background-color:white;
+    height:200px;
+    width:200px; 
+    margin-left: 560px ;
+}
+#name{margin-left: 565px;}
+#aboutme{background-color:#03F0FF;}
 /* Header CSS */
 
 
