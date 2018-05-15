@@ -5,19 +5,37 @@
 }
 
 #first {background-color:#03F0FF;
-    height:300px;
+    height:auto;
     
 }
 #pic{background-color:white;
+    margin-bottom: 5px;
+    margin-top: 60px;
     height:200px;
     width:200px; 
-    margin-left: 560px ;
 }
-#name{margin-left: 565px}
+.center{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+.center_name{
+   text-align: center;
+}
+
 #aboutme{background-color:#03F0FF;}
 /* Header CSS */
 #h4 { text-align:center;
      font-weight: bold;
+     
+}
+#me_about {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 150px;
+    margin-left: 80px;
+   
 }
 
 
